@@ -1,2 +1,1 @@
-# TechnicalHW1
-hello world
+# hello_world
